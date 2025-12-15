@@ -3,12 +3,12 @@ A Python-based command-line healthcare application that performs age group analy
 
 🏥 Healthcare Management & Symptom Analysis System (Python)
 
-This project is a Python-based command-line healthcare application developed as an academic mini project. It combines patient data analysis, basic illness symptom checking, BMI calculation, and appointment token generation into a single integrated program.
+  This project is a Python-based command-line healthcare application developed as an academic mini project. It combines patient data analysis, basic illness symptom checking, BMI   calculation, and appointment token generation into a single integrated program.
 
-The application is designed to demonstrate the use of Python programming, CSV file handling, conditional logic, and data analysis using Pandas in a healthcare-related context.
+  The application is designed to demonstrate the use of Python programming, CSV file handling, conditional logic, and data analysis using Pandas in a healthcare-related context.
 
 🔹 Features
-📊 Age Group Analysis
+  📊 Age Group Analysis
 
 Reads patient data from a CSV file (fake_patient.csv)
 
