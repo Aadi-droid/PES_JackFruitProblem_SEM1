@@ -130,7 +130,7 @@ This project is a Python-based command-line healthcare application developed as 
   <p>This project was developed collaboratively as part of an academic mini project to demonstrate Python programming concepts and basic healthcare data analysis. Team members:     <br>
   Aadi - <a href="https://github.com/Aadi-droid">Visit Github</a><br>
   Aishwarya - <a href="https://github.com/aish5mohan">Visit Github</a><br>
-  Aditi - <a href="">Visit Github</a><br>
-  Akshara - <a href="">Visit Github</a><br>
+  Aditi - <a href="https://github.com/Aditisajjan">Visit Github</a><br>
+  Akshara - <a href="https://github.com/aksharaazhagesan-creator">Visit Github</a><br>
   </p>
   </body>
