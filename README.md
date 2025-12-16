@@ -133,4 +133,7 @@ This project is a Python-based command-line healthcare application developed as 
   Aditi - <a href="https://github.com/Aditisajjan">Visit Github</a><br>
   Akshara - <a href="https://github.com/aksharaazhagesan-creator">Visit Github</a><br>
   </p>
+
+  <h2>Sample Output</h2>
+  <img src="https://drive.google.com/file/d/1PVJjleZndl09ba_581liP1ApT2d0iMuY/view?usp=sharing">
   </body>
