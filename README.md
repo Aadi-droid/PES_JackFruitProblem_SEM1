@@ -135,8 +135,8 @@ This project is a Python-based command-line healthcare application developed as 
   </p>
 
   <h2>Sample Output</h2>
-  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/Screenshot%202025-12-16%20095207.png?raw=true">
-  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/Screenshot%202025-12-16%20095303.png?raw=true">
-  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/Screenshot%202025-12-16%20095330.png?raw=true">
-  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/Screenshot%202025-12-16%20095354.png?raw=true">
+  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/assets/Screenshot%202025-12-16%20095207.png?raw=true">
+  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/assets/Screenshot%202025-12-16%20095303.png?raw=true">
+  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/assets/Screenshot%202025-12-16%20095330.png?raw=true">
+  <img src="https://github.com/Aadi-droid/PES_JackFruitProblem_SEM1/blob/main/assets/Screenshot%202025-12-16%20095354.png?raw=true">
   </body>
